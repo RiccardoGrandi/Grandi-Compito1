@@ -1,6 +1,8 @@
 .titolo{
     color: red;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: 2px solid red;
+    margin-top: 2%;
 }
 
 .classe{
